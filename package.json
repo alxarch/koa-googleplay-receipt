@@ -1,0 +1,29 @@
+{
+  "name": "koa-googleplay-receipt",
+  "version": "0.1.0",
+  "description": "Koa middleware to verify googleplay receipts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxarch/koa-googleplay-receipt.git"
+  },
+  "keywords": [
+    "koa",
+    "googleplay",
+    "receipt",
+    "verify",
+    "middleware"
+  ],
+  "author": "Sigalas Alexandros <alxarch@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxarch/koa-googleplay-receipt/issues"
+  },
+  "homepage": "https://github.com/alxarch/koa-googleplay-receipt#readme",
+  "dependencies": {
+    "raw-body": "^2.1.6"
+  }
+}
